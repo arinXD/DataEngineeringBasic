@@ -1,0 +1,16 @@
+fullName,shortName
+World Championship, World  
+Championship Series, LCS
+European Championship, LEC
+Champions Korea, LCK
+Pro League, LPL
+Masters Series, LMS
+Pacific Championship Series, PCS
+Brazilian Championship, CBLOL
+Continental League, LCL
+Japan League, LJL
+Liga Latinoamerica, LLA 
+Liga Latinoamerica Norte, LLN 
+Circuit Oceania, LCO
+Turkish Championship League, TCL 
+Vietnam Championship Series A-B, LVC

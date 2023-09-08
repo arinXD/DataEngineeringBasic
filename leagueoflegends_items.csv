@@ -1,0 +1,548 @@
+,itemName
+0,Cull
+1,Dark Seal
+2,Doran's Blade
+3,Doran's Ring
+4,Doran's Shield
+5,Farsight Alteration
+6,Guardian's Blade
+7,Guardian's Hammer
+8,Guardian's Horn
+9,Guardian's Orb
+10,Gustwalker Hatchling
+11,Mosstomper Seedling
+12,Oracle Lens
+13,Relic Shield
+14,Scorchclaw Pup
+15,Spectral Sickle
+16,Spellthief's Edge
+17,Stealth Ward
+18,Steel Shoulderguards
+19,Tear of the Goddess
+20,Control Ward
+21,Corrupting Potion
+22,Elixir of Iron
+23,Elixir of Sorcery
+24,Elixir of Wrath
+25,Health Potion
+26,Refillable Potion
+27,Commencing Stopwatch
+28,Eye of the Herald
+29,Minion Dematerializer
+30,Perfectly Timed Stopwatch
+31,Poro-Snax
+32,Slightly Magical Boots
+33,Total Biscuit of Everlasting Will
+34,Your Cut
+35,Berserker's Greaves
+36,Boots
+37,Boots of Swiftness
+38,Ionian Boots of Lucidity
+39,Mercury's Treads
+40,Mobility Boots
+41,Plated Steelcaps
+42,Sorcerer's Shoes
+43,B. F. Sword
+44,Blasting Wand
+45,Broken Stopwatch
+46,Cloak of Agility
+47,Cloth Armor
+48,Dagger
+49,Faerie Charm
+50,Long Sword
+51,Needlessly Large Rod
+52,Null-Magic Mantle
+53,Pickaxe
+54,Rejuvenation Bead
+55,Ruby Crystal
+56,Sapphire Crystal
+57,Sheen
+58,Stopwatch
+59,Aegis of the Legion
+60,Aether Wisp
+61,Amplifying Tome
+62,Bami's Cinder
+63,Bandleglass Mirror
+64,Blighting Jewel
+65,Bramble Vest
+66,Catalyst of Aeons
+67,Caulfield's Warhammer
+68,Chain Vest
+69,Crystalline Bracer
+70,Executioner's Calling
+71,Fiendish Codex
+72,Forbidden Idol
+73,Frostfang
+74,Giant's Belt
+75,Glacial Buckler
+76,Harrowing Crescent
+77,Hearthbound Axe
+78,Hexdrinker
+79,Hextech Alternator
+80,Ironspike Whip
+81,Kindlegem
+82,Kircheis Shard
+83,Last Whisper
+84,Leeching Leer
+85,Lost Chapter
+86,Negatron Cloak
+87,Noonquiver
+88,Oblivion Orb
+89,Phage
+90,Quicksilver Sash
+91,Rageknife
+92,Recurve Bow
+93,Runesteel Spaulders
+94,Seeker's Armguard
+95,Serrated Dirk
+96,Spectre's Cowl
+97,Targon's Buckler
+98,Tiamat
+99,Vampiric Scepter
+100,Verdant Barrier
+101,Warden's Mail
+102,Watchful Wardstone
+103,Winged Moonplate
+104,Zeal
+105,Abyssal Mask
+106,Anathema's Chains
+107,Archangel's Staff
+108,Ardent Censer
+109,Axiom Arc
+110,Banshee's Veil
+111,Black Cleaver
+112,Black Mist Scythe
+113,Blade of the Ruined King
+114,Bloodthirster
+115,Bulwark of the Mountain
+116,Chempunk Chainsword
+117,Chemtech Putrifier
+118,Cosmic Drive
+119,Dead Man's Plate
+120,Death's Dance
+121,Demonic Embrace
+122,Edge of Night
+123,Essence Reaver
+124,Fimbulwinter
+125,Force of Nature
+126,Frozen Heart
+127,Gargoyle Stoneplate
+128,Guardian Angel
+129,Guinsoo's Rageblade
+130,Horizon Focus
+131,Hullbreaker
+132,Infinity Edge
+133,Knight's Vow
+134,Lich Bane
+135,Lord Dominik's Regards
+136,Manamune
+137,Maw of Malmortius
+138,Mejai's Soulstealer
+139,Mercurial Scimitar
+140,Mikael's Blessing
+141,Morellonomicon
+142,Mortal Reminder
+143,Muramana
+144,Nashor's Tooth
+145,Navori Quickblades
+146,Pauldrons of Whiterock
+147,Phantom Dancer
+148,Rabadon's Deathcap
+149,Randuin's Omen
+150,Rapid Firecannon
+151,Ravenous Hydra
+152,Redemption
+153,Runaan's Hurricane
+154,Rylai's Crystal Scepter
+155,Seraph's Embrace
+156,Serpent's Fang
+157,Serylda's Grudge
+158,Shadowflame
+159,Shard of True Ice
+160,Silvermere Dawn
+161,Spear of Shojin
+162,Spirit Visage
+163,Staff of Flowing Water
+164,Sterak's Gage
+165,Stormrazor
+166,Sunfire Aegis
+167,The Collector
+168,Thornmail
+169,Titanic Hydra
+170,Turbo Chemtank
+171,Umbral Glaive
+172,Vigilant Wardstone
+173,Void Staff
+174,Warmog's Armor
+175,Winter's Approach
+176,Wit's End
+177,Youmuu's Ghostblade
+178,Zeke's Convergence
+179,Zhonya's Hourglass
+180,Crown of the Shattered Queen
+181,Divine Sunderer
+182,Duskblade of Draktharr
+183,Eclipse
+184,Evenshroud
+185,Everfrost
+186,Galeforce
+187,Goredrinker
+188,Heartsteel
+189,Hextech Rocketbelt
+190,Iceborn Gauntlet
+191,Immortal Shieldbow
+192,Imperial Mandate
+193,"Jak'Sho, The Protean"
+194,Kraken Slayer
+195,Liandry's Anguish
+196,Locket of the Iron Solari
+197,Luden's Tempest
+198,Moonstone Renewer
+199,Night Harvester
+200,Prowler's Claw
+201,Radiant Virtue
+202,Riftmaker
+203,Rod of Ages
+204,Shurelya's Battlesong
+205,Stridebreaker
+206,Trinity Force
+207,Bloodward
+208,Caesura
+209,Ceaseless Hunger
+210,Deicide
+211,Draktharr's Shadowcarver
+212,Dreamshatter
+213,Equinox
+214,Eternal Winter
+215,Eye of Luden
+216,Frozen Fist
+217,Icathia's Curse
+218,Infinite Convergence
+219,Infinity Force
+220,Leviathan
+221,Liandry's Lament
+222,Primordial Dawn
+223,Reliquary of the Golden Dawn
+224,Sandshrike's Claw
+225,Seat of Command
+226,Shurelya's Requiem
+227,Starcaster
+228,Syzygy
+229,The Unspoken Parasite
+230,Typhoon
+231,Upgraded Aeropack
+232,Vespertide
+233,Wyrmfallen Sacrifice
+234,Black Spear
+235,Death's Daughter
+236,Fire at Will
+237,Raise Morale
+238,Scarecrow Effigy
+239,Anti-Tower Socks
+240,Base Turret Reinforced Armor (Turret Item)
+241,Fortification
+242,Gusto
+243,Ohmwrecker (Turret Item)
+244,Overcharged
+245,Phreakish Gusto
+246,Reinforced Armor (Turret Item)
+247,Super Mech Armor
+248,Super Mech Power Field
+249,Turret Plating
+250,Warden's Eye
+251,Abyssal Scepter
+252,Adaptive Helm
+253,Alacrity
+254,Ancient Coin
+255,Ancient Pocket Watch
+256,Arcane Helix
+257,Arcane Sweeper (Item)
+258,Arcane Sweeper (Trinket)
+259,Archangel's Staff (Quick Charge)
+260,Athene's Unholy Grail
+261,Atma's Impaler
+262,Atma's Reckoning
+263,Augment- Death
+264,Augment- Gravity
+265,Augment- Power
+266,Avarice Blade
+267,Bag of Tea
+268,Banner of Command
+269,Bilgewater Cutlass
+270,Blackfire Torch
+271,Blink Dagger
+272,Bloodletter's Veil
+273,Bloodrazor
+274,Blue Pill
+275,Bonetooth Necklace
+276,Boots of Mobility
+277,Boots of Speed
+278,Brawler's Gloves
+279,Breathstealer
+280,Captain
+281,Catalyst the Protector
+282,Celestial Eye
+283,Chalice of Harmony
+284,Cinderhulk
+285,Circlet of the Iron Solari
+286,Cloak and Dagger
+287,Cloak of Stars
+288,Cosmic Shackle
+289,Crystalline Flask
+290,Dark Matter Scythe
+291,Dark Star Sigil
+292,Deathfire Grasp
+293,Defense Upgrades
+294,Dervish Blade
+295,Devourer
+296,Distortion
+297,Doran's Lost Blade
+298,Doran's Lost Idol
+299,Doran's Lost Ring
+300,Doran's Lost Shield
+301,Eleisa's Miracle
+302,Elixir of Agility
+303,Elixir of Brilliance
+304,Elixir of Fortitude
+305,Elixir of Ruin
+306,Elixir of Skill
+307,Emberknife
+308,Emblem of Valor
+309,Enchantment- Homeguard
+310,Entropy
+311,Entropy Field
+312,Espresso Snax
+313,Evolution- Death Storm
+314,Evolution- Gravity Storm
+315,Evolution- Power Storm
+316,Explorer's Ward
+317,Eye of Ascension
+318,Eye of Frost
+319,Eye of the Aspect
+320,Eye of the Equinox
+321,Eye of the Oasis
+322,Eye of the Watchers
+323,Face of the Mountain
+324,Farsight Orb
+325,Feral Flare
+326,Flash Zone
+327,Flesheater
+328,Forgefire Cape
+329,Forgefire Crest
+330,Frost Queen's Claim
+331,Frosted Snax
+332,Frostfire Gauntlet
+333,Frozen Mallet
+334,Furor
+335,Ghostwalkers
+336,Giant Slayer
+337,Glacial Shroud
+338,Globe of Trust
+339,Golden Transcendence
+340,Gouging Blade
+341,Gravity Boots
+342,Greater Lens
+343,Greater Orb
+344,Greater Stealth Totem
+345,Greater Totem
+346,Greater Vision Totem
+347,Grez's Spectral Lantern
+348,Hailblade
+349,Haunting Guise
+350,Head of Kha'Zix
+351,Heart of Gold
+352,Heart of Targon
+353,Hex Core mk-1
+354,Hex Core mk-2
+355,Hexdrinker (old)
+356,Hextech GLP-800
+357,Hextech Gunblade
+358,Hextech Protobelt-01
+359,Hextech Revolver
+360,Hunter's Machete
+361,Hunter's Potion
+362,Hunter's Talisman
+363,Ichor of Illumination
+364,Ichor of Rage
+365,Infernal Mask
+366,Innervating Locket
+367,Ionic Spark
+368,Jaurim's Fist
+369,Juggernaut
+370,Kage's Lucky Pick
+371,Kitae's Bloodrazor
+372,Leviathan (old)
+373,Liandry's Torment
+374,Lifeline
+375,Lightbringer
+376,Lightning Rod
+377,Looted Oracle's Extract
+378,Lord Van Damm's Pillager
+379,Luden's Echo
+380,Luden's Echo (3286)
+381,Luden's Pulse
+382,Madred's Bloodrazor
+383,Madred's Razors
+384,Magus
+385,Malady
+386,Mana Manipulator
+387,Mana Potion
+388,Manamune (Quick Charge)
+389,Mandrake Ward
+390,Mariner's Vengeance
+391,Marksman's Rifle
+392,Martyr's Gambit
+393,Meki Pendant
+394,Mercenary Upgrades
+395,Might of the Ruined King
+396,Mikael's Crucible
+397,Mirage Blade
+398,Molten Edge
+399,Moonflair Spellblade
+400,Muramana (Quick Charge)
+401,Murksphere
+402,Netherstride Grimoire
+403,Ninja Tabi
+404,Nomad's Eye
+405,Nomad's Medallion
+406,Obsidian Cleaver
+407,Obsidian Edge
+408,Odyn's Veil
+409,Offense Upgrades
+410,Ohmwrecker
+411,Oponn's Razor
+412,Oracle's Elixir
+413,Oracle's Extract
+414,Oracle's Hood
+415,Oracle's Lens
+416,Orb of Winter
+417,Overlord's Bloodmail
+418,Pathfinder's Knife
+419,Peering Farsight Ward
+420,Pendant of Zephiris
+421,Perfect Hex Core
+422,Philosopher's Medallion
+423,Philosopher's Stone
+424,Pilfered Health Potion
+425,Pilfered Potion of Rouge
+426,Pilfered Stealth Ward
+427,Poacher's Dirk
+428,Poacher's Knife
+429,Port Pad
+430,Pox Arcana
+431,Pridestalker's Blade
+432,Priscilla's Blessing
+433,Prospector's Blade
+434,Prospector's Ring
+435,Prototype Hex Core
+436,Puppeteer
+437,Quill Coat
+438,Rabadon's Deathcrown
+439,Rainbow Snax Party Pack!
+440,Ranger's Trailblazer
+441,Raptor Cloak
+442,Regrowth Pendant
+443,Rejuvenation Potion
+444,Remnant of the Ascended
+445,Remnant of the Aspect
+446,Remnant of the Watchers
+447,Renewal Tunic
+448,Righteous Glory
+449,Rimeforged Grasp
+450,Rite of Ruin
+451,Ruby Sightstone
+452,Runeglaive
+453,Runegorger
+454,Runic Bulwark
+455,Runic Echoes
+456,Sage's Ring
+457,Salvation
+458,Sanguine Blade
+459,Sated Devourer
+460,Scroll of Teleportation
+461,Scrying Orb
+462,Seer Stone
+463,Seraph's Embrace (Quick Charge)
+464,Shield Totem
+465,Shurelya's Reverie
+466,Siege Ballista
+467,Siege Sight Warder
+468,Sightstone
+469,Singularity Lantern
+470,Skirmisher's Sabre
+471,Sly Sack of Gold
+472,Soul Anchor
+473,Soul Shroud
+474,Soul Sickle
+475,Spectral Cutlass
+476,Spellbinder
+477,Spellbreaker
+478,Spirit Stone
+479,Spirit of the Ancient Golem
+480,Spirit of the Elder Lizard
+481,Spirit of the Spectral Wraith
+482,Stalker's Blade
+483,Stark's Fervor
+484,Stat-Stick of Stoicism
+485,Statikk Shiv
+486,Stealth Ward (Item)
+487,Stinger
+488,Stirring Wardstone
+489,Sunfire Cape
+490,Super Spicy Snax
+491,Sweeping Lens
+492,Swindler's Orb
+493,Sword of the Divine
+494,Sword of the Occult
+495,Talisman of Ascension
+496,Targon's Brace
+497,Tear of the Goddess (Quick Charge)
+498,Teleport
+499,The Brutalizer
+500,The Golden Spatula
+501,The Hex Core
+502,The Rose's Pride
+503,Timeworn Ancient Coin
+504,Timeworn Face of the Mountain
+505,Timeworn Frost Queen's Claim
+506,Timeworn Frostfang
+507,Timeworn Nomad's Medallion
+508,Timeworn Relic Shield
+509,Timeworn Spellthief's Edge
+510,Timeworn Talisman of Ascension
+511,Timeworn Targon's Brace
+512,Total Biscuit of Rejuvenation
+513,Tower- Beam of Ruination
+514,Tower- Storm Bulwark
+515,Tracker's Knife
+516,Travel Size Elixir of Iron
+517,Travel Size Elixir of Sorcery
+518,Travel Size Elixir of Wrath
+519,Trickster's Glass
+520,Trinity Fusion
+521,Turbocharged Hexperiment
+522,Twin Shadows
+523,Twin Shadows (3290)
+524,Typhoon Claws
+525,Vanguard
+526,Vanguard Banner
+527,Vision Ward
+528,Warrior
+529,Wicked Hatchet
+530,Will of the Ancients
+531,Wizard's Regalia
+532,Wooglet's Witchcap
+533,Wooglet's Witchcrown
+534,Wriggle's Lantern
+535,Yordle Stompers
+536,Youmuu's Wraithblade
+537,Zeke's Harbinger
+538,Zeke's Herald
+539,Zephyr
+540,Zhonya's Paradox
+541,Zhonya's Ring
+542,Zz'Rot Portal
+543,item
+544,tier
+545,list
+546,guide
